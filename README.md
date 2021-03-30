@@ -1,6 +1,6 @@
 # Swift-URLSession
 
-A Swift project that demonstrates CRUD functions with URLSesison + Combine.  The app modifies "study tasks" in a user's Todoist account.  The app uses the Todoist REST API to demonstrate create, read, update and delete functions.
+A Swift project that demonstrates CRUD functions with URLSesison + Combine.  The app modifies "study tasks" in a user's Todoist account.  The app uses the Todoist REST API to demonstrate create, read, update and delete (CRUD) functions.
 
 Video showing a create action : 
 https://user-images.githubusercontent.com/24377615/112921661-08c23d00-90c0-11eb-8d87-9b5e5969bc3c.mov
